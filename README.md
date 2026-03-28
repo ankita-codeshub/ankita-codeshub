@@ -36,16 +36,6 @@
 
 ---
 
-### 📈 Top Languages:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita-codeshub&layout=compact&theme=tokyonight" />
-</p>
----
-
-### 🏆 GitHub Trophies:
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ankita-codeshub&theme=onedark" />
-</p>
 
 ---
 
