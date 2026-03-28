@@ -40,7 +40,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankita-codeshub&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ### 🏆 GitHub Trophies:
@@ -52,8 +51,8 @@
 
 ### 🌐 Connect with me:
 - 📧 Email: ankitabhunia179@gmail.com  
-- 💼 LinkedIn: (https://instagram.com/https://www.instagram.com/_en_coded?igsh=MXhjMzg3MDA2bXh0dQ==)
-- 📸 Instagram:(https://instagram.com/https://www.instagram.com/_en_coded?igsh=MXhjMzg3MDA2bXh0dQ==)  
+- 💼 LinkedIn: https://www.linkedin.com/in/ankita-bhunia-6a8b9125a  
+- 📸 Instagram: https://www.instagram.com/_en_coded 
 
 ---
 
